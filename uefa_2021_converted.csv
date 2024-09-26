@@ -1,0 +1,130 @@
+STAGE,DATE,PENS,PENS_HOME_SCORE,PENS_AWAY_SCORE,TEAM_NAME_HOME,TEAM_NAME_AWAY,TEAM_HOME_SCORE,TEAM_AWAY_SCORE,POSSESSION_HOME,POSSESSION_AWAY,TOTAL_SHOTS_HOME,TOTAL_SHOTS_AWAY,SHOTS_ON_TARGET_HOME,SHOTS_ON_TARGET_AWAY,DUELS_WON_HOME,DUELS_WON_AWAY,PREDICTION_TEAM_HOME_WIN,PREDICTION_DRAW,PREDICTION_TEAM_AWAY_WIN,LOCATION
+ Final ,2022-05-29,False,False,False,Liverpool,Real Madrid,0,1,0.5,0.5,23,3,15,2,0.37,0.63,0.47,0.02,0.53,Anfield
+ Semi-finals second leg ,2022-05-05,False,False,False,Real Madrid,Man City,3,1,0.44,0.56,14,15,5,10,0.47,0.53,0.49,0.1,0.51,Santiago Bernabeu
+ Semi-finals second leg ,2022-04-05,False,False,False,Villarreal,Liverpool,2,3,0.44,0.56,6,15,2,5,0.49,0.51,0.49,0.04,0.51,El Madrigal
+ Semi-finals first leg ,2022-04-28,False,False,False,Liverpool,Villarreal,2,0,0.74,0.26,19,1,5,0,0.41,0.59,0.5,0.04,0.5,Anfield
+ Semi-finals first leg ,2022-04-27,False,False,False,Man City,Real Madrid,4,3,0.6,0.4,16,11,6,5,0.46,0.54,0.48,0.05,0.52,Etihad
+ Quarter-finals second leg ,2022-04-14,False,False,False,Atlético de Madrid,Man City,0,0,0.39,0.61,14,10,3,1,0.49,0.51,0.45,0.08,0.55,Civitas Metropolitan Stadium
+ Quarter-finals second leg ,2022-04-14,False,False,False,Liverpool,Benfica,3,3,0.67,0.33,17,6,6,4,0.38,0.62,0.45,0.09,0.55,Anfield
+ Quarter-finals second leg ,2022-04-13,False,False,False,Real Madrid,Chelsea,2,3,0.43,0.57,10,28,4,7,0.37,0.63,0.4,0.04,0.6,Santiago Bernabeu
+ Quarter-finals second leg ,2022-04-13,False,False,False,Bayern,Villarreal,1,1,0.68,0.32,23,4,4,1,0.38,0.62,0.38,0.07,0.62,Allianz Arena
+ Quarter-finals first leg ,2022-07-04,False,False,False,Villarreal,Bayern,1,0,0.38,0.62,12,22,1,4,0.38,0.62,0.47,0.05,0.53,El Madrigal
+ Quarter-finals first leg ,2022-07-04,False,False,False,Chelsea,Real Madrid,1,3,0.58,0.42,20,8,5,5,0.42,0.58,0.45,0.07,0.55,Stamford Bridge
+ Quarter-finals first leg ,2022-06-04,False,False,False,Benfica,Liverpool,1,3,0.34,0.66,9,17,3,8,0.43,0.57,0.36,0.06,0.64,Estádio do Sport Lisboa e Benfica
+ Quarter-finals first leg ,2022-06-04,False,False,False,Man City,Atlético de Madrid,1,0,0.71,0.29,15,0,2,0,0.37,0.63,0.43,0.1,0.57,Etihad
+ Round of 16 second leg ,2022-03-17,False,False,False,Lille,Chelsea,1,2,0.44,0.56,8,8,1,4,0.43,0.57,0.44,0.07,0.56,Stade Pierre-Mauroy
+ Round of 16 second leg ,2022-03-17,False,False,False,Juventus,Villarreal,0,3,0.59,0.41,14,8,5,3,0.47,0.53,0.45,0.01,0.55,Allianz Stadium
+ Round of 16 second leg ,2022-03-16,False,False,False,Ajax,Benfica,0,1,0.69,0.31,16,4,2,1,0.44,0.56,0.45,0.04,0.55,Johan Cruijff Arena
+ Round of 16 second leg ,2022-03-16,False,False,False,Man United,Atlético de Madrid,0,1,0.61,0.39,11,8,5,3,0.36,0.64,0.49,0.03,0.51,Old Trafford
+ Round of 16 second leg ,2022-10-03,False,False,False,Man City,Sporting CP,0,0,0.69,0.31,14,6,4,3,0.39,0.61,0.49,0.06,0.51,Etihad
+ Round of 16 second leg ,2022-10-03,False,False,False,Real Madrid,Paris,3,1,0.44,0.56,21,10,7,4,0.39,0.61,0.39,0.05,0.61,Santiago Bernabeu
+ Round of 16 second leg ,2022-09-03,False,False,False,Bayern,Salzburg,7,1,0.73,0.27,18,7,9,4,0.47,0.53,0.42,0.1,0.58,Allianz Arena
+ Round of 16 second leg ,2022-09-03,False,False,False,Liverpool,Inter,0,1,0.63,0.37,12,6,2,3,0.39,0.61,0.5,0.06,0.5,Anfield
+ Round of 16 first leg ,2022-02-24,False,False,False,Atlético de Madrid,Man United,1,1,0.37,0.63,13,7,1,2,0.46,0.54,0.43,0.01,0.57,Civitas Metropolitan Stadium
+ Round of 16 first leg ,2022-02-24,False,False,False,Benfica,Ajax,2,2,0.4,0.6,17,11,4,8,0.42,0.58,0.38,0.01,0.62,Estádio do Sport Lisboa e Benfica
+ Round of 16 first leg ,2022-02-23,False,False,False,Villarreal,Juventus,1,1,0.55,0.45,9,7,3,2,0.46,0.54,0.36,0.06,0.64,El Madrigal
+ Round of 16 first leg ,2022-02-23,False,False,False,Chelsea,Lille,2,0,0.51,0.49,9,15,4,2,0.47,0.53,0.39,0.02,0.61,Stamford Bridge
+ Round of 16 first leg ,2022-02-17,False,False,False,Inter,Liverpool,0,2,0.46,0.54,9,13,0,2,0.48,0.52,0.43,0.07,0.57,San Siro
+ Round of 16 first leg ,2022-02-17,False,False,False,"Salzburg
+",Bayern,1,1,0.28,0.72,11,22,6,9,0.49,0.51,0.42,0.02,0.58,Red Bull Arena Salzburg
+ Round of 16 first leg ,2022-02-16,False,False,False,Paris,Real Madrid,1,0,0.58,0.42,21,3,8,0,0.36,0.64,0.48,0.05,0.52,Parc des Princes
+ Round of 16 first leg ,2022-02-16,False,False,False,Sporting CP,Man City,0,5,0.36,0.64,3,15,0,6,0.46,0.54,0.42,0.01,0.58,Estádio Jose Alvalade
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,"Salzburg
+",Sevilla,1,0,0.34,0.66,6,11,2,1,0.39,0.61,0.49,0.06,0.51,Red Bull Arena Salzburg
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,Man United,Young Boys,1,1,0.49,0.51,7,17,5,5,0.38,0.62,0.47,0.02,0.53,Old Trafford
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,"Benfica
+",Dynamo Kyiv,2,0,0.51,0.49,8,8,4,4,0.35,0.65,0.35,0.1,0.65,San Siro
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,Bayern,Barcelona,3,0,0.53,0.47,10,7,6,2,0.48,0.52,0.41,0.09,0.59,Allianz Arena
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,Wolfsburg,Lille,1,3,0.57,0.43,9,13,3,6,0.46,0.54,0.36,0.09,0.64,Wolkswagen Arena
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Juventus,Malmö,1,0,0.59,0.41,16,6,7,2,0.41,0.59,0.49,0.01,0.51,Allianz Stadium
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Zenit,Chelsea,3,3,0.46,0.54,18,13,7,8,0.43,0.57,0.48,0.07,0.52,Krestovsky Stadium
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Real Madrid,Inter,2,0,0.51,0.49,15,17,5,3,0.37,0.63,0.43,0.03,0.57,Santiago Bernabeu
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Milan,Liverpool,1,2,0.48,0.52,8,22,3,7,0.37,0.63,0.37,0.02,0.63,San Siro
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Dortmund,Be?ikta?,5,0,0.7,0.3,29,1,7,0,0.46,0.54,0.43,0.07,0.57,Signal Iduna Park
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Ajax,Sporting CP,4,2,0.59,0.41,16,10,7,4,0.47,0.53,0.42,0.07,0.58,Johan Cruijff Arena
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,FC Porto,Atlético de Madrid,1,3,0.68,0.32,14,14,6,7,0.45,0.55,0.43,0.1,0.57,Estadio do Dragao
+ Group stage: Matchday 6 ,2021-08-12,False,False,False,Shakhtar Donetsk,Sheriff,1,1,0.69,0.31,20,12,5,4,0.42,0.58,0.4,0.1,0.6,NSK Olimpiiskyi
+ Group stage: Matchday 6 ,2021-07-12,False,False,False,Paris,Club Brugge,4,1,0.61,0.39,17,15,9,6,0.38,0.62,0.42,0.08,0.58,Parc des Princes
+ Group stage: Matchday 6 ,2021-07-12,False,False,False,Leipzig,Man City,2,1,0.44,0.56,9,13,5,3,0.38,0.62,0.43,0.01,0.57,Red Bull Arena Leipzig
+ Group stage: Matchday 6 ,2021-09-12,False,False,False,"Atalanta
+",Villarreal,2,3,0.65,0.35,19,9,5,6,0.45,0.55,0.49,0.08,0.51,Gewiss Stadium
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Club Brugge,Leipzig,0,5,0.41,0.59,22,29,9,6,0.47,0.53,0.4,0.01,0.6,Jan Breydel Stadium
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Atlético de Madrid,Milan,0,1,0.46,0.54,11,26,7,8,0.42,0.58,0.46,0.05,0.54,Estadio Metropolitano
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Sheriff,Real Madrid,0,3,0.36,0.64,16,16,5,7,0.46,0.54,0.36,0.03,0.64,Sheriff Main Arena
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Sporting CP,Dortmund,3,1,0.5,0.5,15,16,9,6,0.47,0.53,0.44,0.05,0.56,Estádio José Alvalade
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Man City,Paris,2,1,0.42,0.58,11,21,8,4,0.42,0.58,0.37,0.09,0.63,City of Manchester Stadium
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Liverpool,FC Porto,1,0,0.47,0.53,12,19,5,1,0.41,0.59,0.4,0.04,0.6,Anfield
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Besiktas,Ajax,1,2,0.42,0.58,13,30,2,3,0.5,0.5,0.37,0.09,0.63,Be?ikta? Park
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Inter,Shakhtar Donetsk,2,0,0.49,0.51,7,27,4,8,0.39,0.61,0.37,0.09,0.63,San Siro
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Malmo,Zenit,1,1,0.37,0.63,20,19,9,4,0.48,0.52,0.43,0.01,0.57,Malmö New Stadium
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Young Boys,Atalanta,3,3,0.38,0.62,12,24,5,6,0.49,0.51,0.42,0.03,0.58,Stadion Wankdorf-Bern
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Lille,Salzburg,1,0,0.5,0.5,33,17,9,4,0.49,0.51,0.41,0.02,0.59,Stade Pierre Mauroy-Villeneuve d'Ascq
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Sevilla,Wolfsburg,2,0,0.4,0.6,35,10,2,2,0.47,0.53,0.47,0.05,0.53,Ramon Sanchez Pizjuan
+ Group stage: Matchday 5 ,2021-11-24,False,False,False,Chelsea,Juventus,4,0,0.45,0.55,18,9,4,1,0.42,0.58,0.39,0.06,0.61,Stamford Bridge
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Barcelona,Benefica,0,0,0.46,0.54,12,28,3,3,0.39,0.61,0.46,0.07,0.54, Camp Nou 
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Villarreal,Man United,0,2,0.36,0.64,25,31,5,8,0.37,0.63,0.38,0.07,0.62,Santiago Bernabeu
+ Group stage: Matchday 5 ,2021-11-25,False,False,False,Dynamo Kyiv,Bayern,1,2,0.49,0.51,8,8,4,4,0.4,0.6,0.45,0.05,0.55,Ramon Sanchez Pizjuan
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Liverpool,Atlético de Madrid,2,0,0.41,0.59,24,10,9,6,0.35,0.65,0.43,0.07,0.57,Ramon Sanchez Pizjuan
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Sporting CP,Besiktas,4,0,0.47,0.53,8,14,8,5,0.48,0.52,0.47,0.04,0.53,Allianz Arena
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Man City,Club Brugge,4,1,0.45,0.55,23,13,7,9,0.47,0.53,0.49,0.06,0.51,Santiago Bernabeu
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Leipzig,PAris,2,2,0.46,0.54,31,23,4,4,0.49,0.51,0.42,0.05,0.58,City of Manchester Stadium
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Sheriff,Inter,1,3,0.37,0.63,25,30,5,2,0.48,0.52,0.44,0.08,0.56,Be?ikta? Park
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Dortmund,Ajax,1,3,0.39,0.61,23,17,2,9,0.45,0.55,0.45,0.02,0.55,Signal Iduna Park
+ Group stage: Matchday 4 ,2021-07-11,False,False,False,Milan,FC Porto,1,1,0.5,0.5,6,18,1,6,0.48,0.52,0.43,0.01,0.57,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Real Madrid,Shakhtar Donetsk,2,1,0.38,0.62,9,27,2,4,0.41,0.59,0.38,0.01,0.62,San Siro
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Sevilla,Lille,1,2,0.49,0.51,34,30,1,7,0.45,0.55,0.44,0.09,0.56,Stamford Bridge
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Villareal,Young Boys,2,0,0.48,0.52,16,13,4,2,0.36,0.64,0.48,0.03,0.52,Stamford Bridge
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Atalanta,Man United,2,2,0.37,0.63,31,30,2,1,0.47,0.53,0.48,0.1,0.52,Signal Iduna Park
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Dynamo Kyiv,Barcelona,0,1,0.43,0.57,23,21,4,3,0.49,0.51,0.43,0.09,0.57,Red Bull Arena Salzburg
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Bayern,Benefics,5,2,0.49,0.51,9,32,6,1,0.46,0.54,0.49,0.09,0.51,Old Trafford
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,juventus,Zenit,4,2,0.41,0.59,25,24,7,6,0.44,0.56,0.47,0.1,0.53,Old Trafford
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Wolfsburg,Salzburg,2,1,0.49,0.51,35,7,2,9,0.46,0.54,0.41,0.09,0.59,Old Trafford
+ Group stage: Matchday 4 ,2021-08-11,False,False,False,Malmo,Chelesa,0,1,0.49,0.51,10,14,5,4,0.44,0.56,0.42,0.07,0.58,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Chelsea,Malmo,4,0,0.43,0.57,26,24,2,5,0.49,0.51,0.37,0.1,0.63,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Zenit,Juventus,0,1,0.39,0.61,27,17,5,1,0.46,0.54,0.43,0.08,0.57,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Benfica,Bayern,0,4,0.4,0.6,17,6,2,3,0.43,0.57,0.47,0.1,0.53,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Lille,Sevilla,0,0,0.39,0.61,14,35,5,2,0.43,0.57,0.47,0.07,0.53,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Young Boys,Villarreal,1,4,0.43,0.57,14,27,2,4,0.37,0.63,0.45,0.08,0.55,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Man United,Atalanta,3,2,0.45,0.55,25,25,5,4,0.43,0.57,0.36,0.04,0.64,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Barcelona,Dynamo Hyiv,1,0,0.37,0.63,29,27,2,3,0.41,0.59,0.4,0.05,0.6,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Saizburg,Wolfsburg,3,1,0.43,0.57,28,19,5,7,0.37,0.63,0.39,0.02,0.61,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Inter,Sheriff,3,1,0.48,0.52,27,30,2,6,0.45,0.55,0.38,0.05,0.62,Stamford Bridge
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Shakhtar Donetsk,Real Madrid,0,5,0.4,0.6,23,10,5,4,0.39,0.61,0.36,0.04,0.64,Signal Iduna Park
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Ajax,Dortmund,4,0,0.5,0.5,32,33,2,9,0.47,0.53,0.36,0.08,0.64,Parc des Princes
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,FC Porto,Milan,1,0,0.48,0.52,15,23,5,4,0.36,0.64,0.49,0.07,0.51,Red Bull Arena Salzburg
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Atlético de Madrid,Liverpool,2,3,0.36,0.64,13,13,2,5,0.36,0.64,0.43,0.08,0.57,Parc des Princes
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Paris,Leipzig,3,2,0.35,0.65,11,34,5,1,0.48,0.52,0.42,0.02,0.58,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Besiktas,Sporting CP,1,4,0.43,0.57,20,32,2,2,0.45,0.55,0.4,0.02,0.6,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 3 ,2021-10-21,False,False,False,Club Brugge,Man City ,1,5,0.39,0.61,8,30,5,2,0.37,0.63,0.4,0.05,0.6,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Juventus,Chelsea,1,0,0.46,0.54,16,17,4,7,0.35,0.65,0.48,0.04,0.52,Estadio do Dragao
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Man United,Villarreal,2,1,0.35,0.65,23,9,1,2,0.44,0.56,0.36,0.04,0.64,Estadio do Dragao
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Beyern,Dynamo Kyiv,5,0,0.41,0.59,24,20,7,6,0.35,0.65,0.43,0.1,0.57,Parc des Princes
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Benfica,Barcelona,3,0,0.42,0.58,6,26,7,2,0.41,0.59,0.49,0.1,0.51,Signal Iduna Park
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Wolfsburg,Sevilla,1,1,0.41,0.59,26,15,9,7,0.39,0.61,0.38,0.03,0.62,Signal Iduna Park
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Salzburg,Lille,2,1,0.49,0.51,27,16,8,6,0.49,0.51,0.43,0.06,0.57,Jan Breydel Stadium
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Zenit,Malo,4,0,0.44,0.56,28,29,1,5,0.43,0.57,0.36,0.1,0.64,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Atalanta,Young Boys,1,0,0.49,0.51,12,14,6,4,0.43,0.57,0.47,0.07,0.53,Stamford Bridge
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Dortmund,Sporting CP,1,0,0.41,0.59,14,11,2,6,0.44,0.56,0.39,0.09,0.61,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Paris,Man City ,2,0,0.35,0.65,11,23,7,9,0.41,0.59,0.38,0.07,0.62,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,FC Porto,Liverpool,1,5,0.46,0.54,12,25,1,7,0.36,0.64,0.36,0.02,0.64,Red Bull Arena Salzburg
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Real Madrid,Sheriff,1,2,0.36,0.64,9,28,6,4,0.42,0.58,0.44,0.01,0.56,Stamford Bridge
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Laipzig,Club Brugge,1,2,0.42,0.58,7,26,8,1,0.37,0.63,0.45,0.01,0.55,Santiago Bernabeu
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Milan,Atlético de Madrid,1,2,0.46,0.54,6,17,7,5,0.41,0.59,0.36,0.02,0.64,Ramon Sanchez Pizjuan
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Shakhtar Donetsk,Inter,0,0,0.38,0.62,27,34,8,1,0.37,0.63,0.36,0.1,0.64,Be?ikta? Park
+ Group stage: Matchday 2 ,2021-09-30,False,False,False,Ajax,Besiktas,2,0,0.43,0.57,19,16,5,5,0.45,0.55,0.39,0.02,0.61,Be?ikta? Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Sporting CP,Ajax,1,5,0.37,0.63,12,30,7,5,0.37,0.63,0.38,0.03,0.62,José Alvalade
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Atlético de Madrid,FC Porto,0,0,0.45,0.55,10,14,5,6,0.48,0.52,0.4,0.07,0.6,Be?ikta? Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Club Brugge,Paris,1,1,0.38,0.62,26,13,7,4,0.41,0.59,0.36,0.07,0.64,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Man City,Leipzig,6,3,0.48,0.52,28,21,4,5,0.42,0.58,0.38,0.03,0.62,Signal Iduna Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Liverpool ,Milan,3,2,0.44,0.56,25,26,6,9,0.38,0.62,0.47,0.09,0.53,Be?ikta? Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Inter ,Real Madrid,0,1,0.49,0.51,7,33,4,5,0.4,0.6,0.46,0.02,0.54,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Sheriff ,Shakhtar Dopetsk,2,0,0.42,0.58,25,25,2,9,0.4,0.6,0.38,0.01,0.62,Stamford Bridge
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Besiktas,Dortmund,1,2,0.43,0.57,6,33,4,7,0.45,0.55,0.45,0.03,0.55,Santiago Bernabeu
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Dynamo Kyiv,Benfica,0,0,0.44,0.56,8,17,7,5,0.46,0.54,0.42,0.03,0.58,Red Bull Arena Salzburg
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Barcelona,Bayern,0,3,0.48,0.52,17,30,8,9,0.45,0.55,0.45,0.08,0.55,Ramon Sanchez Pizjuan
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Lille,Wolfsburg,0,0,0.48,0.52,10,10,6,7,0.36,0.64,0.4,0.01,0.6,Ramon Sanchez Pizjuan
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Malmo,Juventus,0,3,0.44,0.56,31,23,2,5,0.42,0.58,0.49,0.08,0.51,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Chelsea,Zenit,1,0,0.39,0.61,22,5,8,8,0.46,0.54,0.45,0.1,0.55,Estádio do Sport Lisboa e Benfica
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Villarreal,Atalanta,2,2,0.48,0.52,20,18,8,5,0.47,0.53,0.41,0.01,0.59,Be?ikta? Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Young Boys,Man United,2,1,0.48,0.52,7,17,7,8,0.49,0.51,0.37,0.06,0.63,Be?ikta? Park
+ Group stage: Matchday 1 ,2021-09-16,False,False,False,Sevilla,Salzvurg,1,1,0.44,0.56,32,18,8,5,0.36,0.64,0.46,0.05,0.54,Estadio do Dragao
