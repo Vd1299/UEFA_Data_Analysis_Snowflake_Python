@@ -42,3 +42,5 @@ Pandas: Used for transforming raw CSV files into a clean, normalized format befo
 Snowflake: A scalable cloud data warehouse that enables fast querying and analysis of UEFA match data.
 Staging Areas: For data ingestion and management of external and internal files before loading into Snowflake.
 SQL: Used to perform queries, aggregate match statistics, and generate analytical reports.
+
+![UEFA Data Analysis](https://github.com/user-attachments/assets/1cbd0daf-bc7b-401d-b7df-cb0e869b0413)
